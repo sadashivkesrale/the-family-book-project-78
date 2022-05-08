@@ -1,0 +1,23 @@
+body{
+background-color: aquamarine;
+color: coral;
+border: solid;
+}
+h1{
+color: darkgoldenrod;
+}
+img{
+color: aqua;
+border: solid;
+}
+h4{
+color: darkblue;
+}
+#next{
+background-color: darkseagreen;
+color: khaki;
+border-radius: 3px;
+font-weight: bold;
+}
+
+  
